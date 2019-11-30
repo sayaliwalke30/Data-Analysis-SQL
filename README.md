@@ -4,3 +4,6 @@
 #### It covers basic and advance SQl
 #### Topics include- SQL basics, Aggregation, Views, Stored Procedures, Pivot, Column Encryption, Computed Columns, Partition
 
+
+####(Will update soon)
+
